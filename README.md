@@ -1,4 +1,4 @@
 # Conway-game-of-life
-PROJECT MEMBERS
+- PROJECT MEMBERS
 63652 | Ayesha Siddiqui
-63646 | Yasir
+63 | Yasir
